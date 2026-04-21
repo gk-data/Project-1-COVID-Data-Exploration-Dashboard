@@ -78,7 +78,7 @@ This project demonstrates a full-cycle data analysis workflow, moving from raw, 
 
 
 ## Author
-- <b>©2026 Gaurav Kamble. All rights reserved.</b>
+- <b>©2026 Gaurav Kamble.  
 - <b>[LinkedIn](https://www.linkedin.com/in/gaurav-kamble/)</b>
 - <b>[Tableau Public](https://public.tableau.com/app/profile/datagaurav/vizzes)</b>
 - <b>[Kaggle](https://www.kaggle.com/justgk)</b>
